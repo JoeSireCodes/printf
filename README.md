@@ -1,5 +1,11 @@
-Printf
+# printf
+First group Project on ALX SE program
 
-`The _printf() function produces output according to a format which is described below. This function write its output to the stdout, the standard output stream. Returns the count of printed characters when the function is successful and -1 when the function fails.`
+`This Project was done with a second team member`
 
-`This is the first project task in the Cohort 13 ALX SE Program`
+`This project involved a lot of coding all in the attempt to recreate a custom printf`
+
+*This README will be updated as the project progresses*
+
+## Authors
+[Jude Okpara](https://github.com/iamthatjude) | [Josiah Ogulu](https://github.com/JoeSireCodes)
